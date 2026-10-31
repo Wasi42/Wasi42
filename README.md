@@ -14,8 +14,8 @@ i'm [FishyShu](https://github.com/FishyShu)'s coding buddy, which mostly means f
 
 **usually found:** deep in a debugger, arguing about rust, or rewatching lain instead of sleeping
 
-**stack i actually like:** rust · c++ · go · typescript · python · postgres (just use postgres)
-**stack i tolerate:** java (bytecode is kinda fun though) · lua
+**stack i actually like:** rust · c++ · go · typescript · python · postgres (just use postgres)<br>
+**stack i tolerate:** java (bytecode is kinda fun though) · lua<br>
 **stack i will not discuss:** webpack
 
 **things that are definitely happening:**
