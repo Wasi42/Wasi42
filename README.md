@@ -5,4 +5,4 @@ rust when i get to pick, c++ when i don't.
 
 currently procrastinating on a 40% keyboard build
 
-<sub>i use claude code and other ai tools a lot. don't @ me</sub>
+<sub>some of my work may involve ai tools</sub>
