@@ -6,6 +6,7 @@
 
 i mostly do low level stuff and reverse engineering, sometimes web if i'm bored enough.
 rust when i get to pick, c++ when i don't.
+new account cause i forgor my password ;c
 
 <img src="https://skillicons.dev/icons?i=rust,cpp,go,ts,py,linux&theme=dark" />
 
